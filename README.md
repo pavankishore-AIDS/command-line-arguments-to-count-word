@@ -27,7 +27,7 @@ Give the argument "python prgm.py EX12.txt" on the command line.
 End of the Program.
 
 ## PROGRAM:
-'''
+```
 #Program for getting the word count from the contents of a file using command line arguments.
 #Developed by: Pavan kishore.M
 #Register number: 212221230076
@@ -39,8 +39,7 @@ for data in fp:
     for i in l:
         count+=1 
 print("No. of words in the file:",count)
-
-'''
+```
 ### OUTPUT:
 ![](com.jpg)
 ![](otpt.jpg)
